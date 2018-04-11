@@ -1,0 +1,173 @@
+body {
+    background-color: #000;
+}
+
+
+h1 {
+    font-family: 'Trajan Pro 3';
+    color: #00ff21;
+    text-align: center;
+}
+             h2
+              {
+    font-family: 'Sitka Heading';
+    color: #fff;
+    
+}
+
+ul
+{
+    background-color: #00ff21;
+    float: left;
+   font-size: large;
+  
+   
+}
+
+            .razerdator
+            {
+                position: absolute;
+                height: 700px;
+                width: 99%;
+                top: 100px;
+                
+            }
+            .razerhorlurar
+              {
+      position: absolute;
+      height: 600px;
+      width: 50%;
+      top: 700px;
+    
+              }
+           .razerproject
+            {
+             position: absolute;
+             width: 50%;
+             top: 700px;
+             height: 600px;
+             right: 1px;
+             
+    
+            }
+.razerkeyboard
+{position: absolute;
+ top: 1000px;
+}
+
+.aboutrazer 
+{ position: absolute;
+top: 50px;
+    float: left;
+    left: 500px;
+    width: 1000px;
+    height: 700px;
+   
+}
+
+.bred
+{ 
+   font-size: large;
+    color: #fff;
+  position: absolute;
+  float: left;
+  left: 100px;
+  right: 750px;
+    
+}
+.text
+{
+    font-size: large;
+    color: #fff;
+    position: absolute;
+    left: 70%;
+    right: 1%;
+    top: 1150px;
+}
+nav
+{
+  position: absolute;
+}
+.ABC
+{
+        font-family: 'Trajan Pro 3';
+    color: #00ff21;
+    top: 500px;
+    font-size: xx-large;
+}
+.man
+{
+    position: absolute;
+    float: left;
+    left: 70%;
+    right: 1%;
+    top: 1100px;
+    font-size: x-large;
+    color: #00ff21;
+
+ 
+ 
+}
+.ornata
+{
+    position: absolute;
+    height: 300px;
+    width: 400px;
+    top: 750px;
+}
+.ornatatext
+{
+    position: absolute;
+    font-size: larger;
+    color: #00ff21;
+    top: 1800px;
+   float: left;
+   left: 100px;
+        
+}
+.deathstalker
+{
+    position: absolute;
+    height: 280px;
+    width: 450px;
+    top: 750px;
+    float: left;
+    left: 200px;
+}
+.stalkertext
+{
+    position: absolute;
+    color: #00ff21;
+    top: 1800px;
+    float: left;
+    left: 550px;
+    font-size: large;
+}
+.blackwidow
+{
+    position: absolute;
+    height: 280px;
+    width: 400px;
+    top: 750px;
+    float: left;
+    left: 450px;
+    
+}
+.widowtext
+{
+    position: absolute;
+    color: #00ff21;
+    top: 1800px;
+    float: right;
+    right: 200px;
+    font-size: large;
+        
+}
+.validate{
+    position: absolute;
+    float: left;
+    left: 90%;
+    top: 1300px;
+}
+
+            
